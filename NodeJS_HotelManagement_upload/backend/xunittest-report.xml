@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" errors="0" time="9.793">
+  <testsuite name="tests/index.test.js" errors="0" failures="0" skipped="0" timestamp="2024-02-02T11:21:53" time="9.714" tests="5">
+    <testcase classname="ADD /hotels/" name="Add a hotel" time="1.093">
+    </testcase>
+    <testcase classname="Get /hotels" name="Get all hotels" time="1.011">
+    </testcase>
+    <testcase classname="Get /hotels/id" name="Get hotel by id" time="1.017">
+    </testcase>
+    <testcase classname="UPDATE /hotels/" name="Update a hotel" time="1.024">
+    </testcase>
+    <testcase classname="Delete /hotels/id" name="Delete hotel by id " time="1.032">
+    </testcase>
+  </testsuite>
+</testsuites>
