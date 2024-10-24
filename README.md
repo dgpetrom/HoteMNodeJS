@@ -1,21 +1,29 @@
-Description
-Problem name
+**Description**
+**Problem name**
 [NodeJS] Hotel management system
-Problem statement
+
+**Problem statement**
 Build an API for a hotel management system in the Node web app. The API should support features like getting all hotel details, creating a new hotel, updating the existing details of a hotel, and deleting a hotel by ID.
 
-Technical specifications
 
-Tech stack 
+**Technical specifications**
+
+
+**Tech stack **
 Backend: NodeJS
+
 Database: SQLite
-Database model parameters
+
+**Database model parameters**
 hotels: [id: integer, name: string, location: string, rating: integer]
 Ports 
 Backend: 8000
-Implementation details
 
-API Endpoints
+**Implementation details**
+
+
+**API Endpoints**
+
 
 GET /api/hotels?page=1&limit=10 would return all hotels in the database with pagination.
 GET api/hotels/{id} would return a single hotel. If the hotel with ID is not found, return status 404 with an error message. 
