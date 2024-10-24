@@ -36,13 +36,19 @@ Clicking Submit code runs your code against multiple test cases, assessing diffe
 
 **Project source**
 backend
+
 **Build commands**
 npm install
+
 **Deploy commands**
 npm start
+
 **Sample Evaluation commands**
 npm run sample_tests
+
 **Evaluation commands**
 npm run main_tests
+
 **Evaluation report path**
 xunittest-report.xml
+
